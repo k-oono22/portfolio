@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "oonomod:raw_oono"
+    },
+    "result": "oonomod:oono_ingot",
+    "experience": 10,
+    "cookingtime": 100
+}

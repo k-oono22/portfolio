@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "oonomod:oono_block"
+        }
+    },
+    "result": {
+        "item": "oonomod:oono_ingot",
+        "count": 9
+    }
+}

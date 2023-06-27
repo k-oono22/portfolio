@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "oonomod:oono_block"
+    },
+    "result": "oonomod:oono_wall",
+    "count": 1
+}

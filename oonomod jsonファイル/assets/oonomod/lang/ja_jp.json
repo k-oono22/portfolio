@@ -1,0 +1,25 @@
+{
+  "itemGroup.oonomod_tab" : "大野のmod",
+
+  "item.oonomod.oono_ingot" : "オオノインゴット",
+
+  "item.oonomod.raw_oono" : "オオノ原石",
+
+  "item.oonomod.oono_pickaxe" : "オオノツルハシ",
+
+  "item.oonomod.oono_sword" : "オオノソード",
+
+  "item.oonomod.oono_axe" : "オオノアックス",
+
+  "item.oonomod.oono_hoe" : "オオノクワ",
+
+  "item.oonomod.oono_shovel" : "オオノシャベル",
+
+  "block.oonomod.oono_block" : "オオノブロック",
+
+  "block.oonomod.oono_wall" : "オオノウォール",
+
+  "block.oonomod.oono_ore": "オオノ鉱石",
+
+  "block.oonomod.deepslate_oono_ore" : "深層オオノ鉱石"
+}

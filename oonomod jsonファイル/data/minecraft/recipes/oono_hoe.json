@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ii",
+        "/ ",
+        "/ "
+    ],
+    "key": {
+        "i": {
+            "item": "oonomod:oono_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "oonomod:oono_hoe",
+        "count": 1
+    }
+}

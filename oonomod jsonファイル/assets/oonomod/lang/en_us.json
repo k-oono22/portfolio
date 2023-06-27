@@ -1,0 +1,25 @@
+{
+  "itemGroup.oonomod_tab" : "oono mod",
+
+  "item.oonomod.oono_ingot" : "oono Ingot",
+
+  "item.oonomod.raw_oono" : "raw_oono",
+
+  "item.oonomod.oono_pickaxe" : "oono pickaxe",
+
+  "item.oonomod.oono_sword" : "oono sword",
+
+  "item.oonomod.oono_axe" : "oono axe",
+
+  "item.oonomod.oono_hoe" : "oono hoe",
+
+  "item.oonomod.oono_shovel" : "oono shovel",
+
+  "block.oonomod.oono_block" : "oono block",
+
+  "block.oonomod.oono_wall" : "oono wall",
+
+  "block.oonomod.oono_ore" : "oono ore",
+
+  "block.oonomod.deepslate_oono_ore" : "deepslate oono ore"
+}
